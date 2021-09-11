@@ -2,4 +2,4 @@
 
 **My first Github document**
 
-Hello, it is me, Thibiga. 
+Hello, it is me, Thibiga!
