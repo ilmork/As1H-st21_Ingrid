@@ -1,11 +1,17 @@
 ---
 title: "Can R Notebooks help with reproducibility?"
-output: html_notebook
+output:
+  pdf_document: default
+  html_notebook: default
+  html_document:
+    df_print: paged
 ---
 
 ## **Introduction**
 
-heihei
+Reproducibility and replicability has been and ongoing topic among scientists and academics. The importance of the matters has been widely discussed considering the ongoing "reproducibility crisis". **++** The aim of this paper is to define reproducibility and replicability and further discuss if R notebook can help with reproducibility **++** 
+
+Reproducibility is defined by NSF (U.S national Science Foundation) as "(...) The ability of a researcher to duplicate the result of a prior study using the same materials as were used by the original investigator" **(Kilde: file:///Users/Morkken/Downloads/Goodman_Fanelli_2016_Reproducibility.pdf)** . While reproducibility includes secondary researchers using the same material, ***replicability*** refers to collecting new data that leads to the same findings as the orgininal study **(Kilde: https://www.ncbi.nlm.nih.gov/books/NBK547546/)**
 
 
 ```{r}
