@@ -1,21 +1,21 @@
 ---
 title: "Can R Notebooks help with reproducibility?"
-output: html_notebook
+output:
+  pdf_document: default
+  html_notebook: default
 ---
 
 ## **Introduction**
 
 heihei
 
-
 ```{r}
 sessionInfo(package = NULL)
 ```
 
-
 ## **Short literature review**
 
-This literature review will undertake a research of reproducibility in relevance to *R and R-studio*. It will further present the relevant sources and the credibility of the sources used. We will be using sources deducted from the shared Zotero library, which have been collected through detailed work by our professor. 
+This literature review will undertake a research of reproducibility in relevance to *R and R-studio*. It will further present the relevant sources and the credibility of the sources used. We will be using sources deducted from the shared Zotero library, which have been collected through detailed work by our professor.
 
 ### ***Reproducibility in R***
 
@@ -26,11 +26,12 @@ This literature review will undertake a research of reproducibility in relevance
 ## **Discussion**
 
 #### Liste
-1. Nummer en
-2. Nummer to
-  * 2.1 to komma en
+
+1.  Nummer en
+2.  Nummer to
+
+-   2.1 to komma en
 
 ## **Conclusion**
 
 ## **References**
-
