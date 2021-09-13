@@ -4,7 +4,7 @@ output:
   pdf_document: default
   html_notebook: default
 <<<<<<< HEAD
-  csl: apa-no-ampersand.csl
+ 
 =======
   html_document:
     df_print: paged
