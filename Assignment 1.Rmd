@@ -3,11 +3,10 @@ title: "Can R Notebooks help with reproducibility?"
 output:
   pdf_document: default
   html_notebook: default
+  csl: apa-no-ampersand.csl
 ---
 
 ## **Introduction**
-
-heihei
 
 ```{r}
 sessionInfo(package = NULL)
