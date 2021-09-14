@@ -25,6 +25,7 @@ sessionInfo(package = NULL)
 This literature review will undertake a research of reproducibility in relevance to *R and R-studio*. It will further present the relevant sources and the credibility of the sources used. We will be using sources deducted from the shared Zotero library, which have been collected through detailed work by our professor.
 
 ### ***Reproducibility in R***
+Thibiga skriver om dette.
 
 ### ***Reproducibility for scientists***
 
