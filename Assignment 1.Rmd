@@ -2,8 +2,10 @@
 title: "Can R Notebooks help with reproducibility?"
 csl: apa-no-ampersand.csl
 output:
-  pdf_document: default
+  html_document:
+    df_print: paged
   html_notebook: default
+  pdf_document: default
 ---
 
 ## **Introduction**
@@ -24,7 +26,7 @@ sessionInfo(package = NULL)
 This literature review will undertake a research of reproducibility in relevance to *R and R-studio*. It will further present the relevant sources and the credibility of the sources used. We will be using sources deducted from the shared Zotero library, which have been collected through detailed work by our professor.
 
 ### ***Reproducibility in R***
-Thibiga skriver om dette.
+Thibiga skriver om dette. heihei
 
 ### ***Reproducibility for scientists***
 
