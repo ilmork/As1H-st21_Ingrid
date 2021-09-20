@@ -34,7 +34,7 @@ As defined in the introduction are both reproducibility and replicability an imp
 
 ### Reproducibility in R
 
-Just testing. More text.
+Just testing. More text. Why all the stars?
 
 ### ***Reproducibility for scientists***
 
