@@ -10,27 +10,27 @@ output:
 
 ## **Introduction**
 
-<<<<<<< HEAD
-=======
+Reproducibility
 
->>>>>>> Reproducibility
-=======
 Reproducibility and replicability has been and ongoing topic among scientists and academics. The importance of the matters has been widely discussed considering the ongoing "reproducibility crisis". **++** The aim of this paper is to define reproducibility and replicability and further discuss if R notebook can help with reproducibility **++** 
 
-Reproducibility is defined by NSF (U.S national Science Foundation) as "(...) The ability of a researcher to duplicate the result of a prior study using the same materials as were used by the original investigator" **(Kilde: file:///Users/Morkken/Downloads/Goodman_Fanelli_2016_Reproducibility.pdf)** . While reproducibility includes secondary researchers using the same material, ***replicability*** refers to collecting new data that leads to the same findings as the orgininal study **(Kilde: https://www.ncbi.nlm.nih.gov/books/NBK547546/)**
+Reproducibility is defined by NSF (U.S national Science Foundation) as "(...) The ability of a researcher to duplicate the result of a prior study using the same materials as were used by the original investigator" **(Kilde: file:///Users/Morkken/Downloads/Goodman_Fanelli_2016_Reproducibility.pdf)** . While reproducibility includes secondary researchers using the same material, ***replicability*** refers to collecting new data that leads to the same findings as the original study **(Kilde: https://www.ncbi.nlm.nih.gov/books/NBK547546/)**. A source to perform and test both reproducibility and replicability, is R Notebooks - a markdown document which allows the user to both "independent and interactive execution of the code chunks" **(http://uc-r.github.io/r_notebook)**. The user is also able to view the developed output immediately underneath the implied input **(https://bookdown.org/yihui/rmarkdown/notebook.html)**. The notebook further allows users to interact with the software R while also create output which is both reproducible and of great publication quality **(https://bookdown.org/yihui/rmarkdown/notebook.html)**. 
 
-<<<<<<< HEAD
+The aim of this paper is to define reproducibility and replicability and further discuss if R notebook can help with reproducibility **++** 
 
 
-=======
->>>>>>> Reproducibility
+Reproducibility
+
 ```{r}
 sessionInfo(package = NULL)
 ```
 
+
 ## **Short literature review**
 
-This literature review will undertake a research of reproducibility in relevance to *R and R-studio*. It will further present the relevant sources and the credibility of the sources used. We will be using sources deducted from the shared Zotero library, which have been collected through detailed work by our professor.
+This literature review will undertake a research of reproducibility and replicability in relevance to *R and R-studio*. It will further present the relevant sources and the credibility of the sources used. We will be using sources deducted from the shared Zotero library, which have been collected through detailed work by our professor.
+
+As defined in the introduction are both reproducibility and replicability an important topic among scientists and in the academic world. The  
 
 ### ***Reproducibility in R***
 
@@ -41,12 +41,11 @@ This literature review will undertake a research of reproducibility in relevance
 ## **Discussion**
 
 #### Liste
-
-1.  Nummer en
-2.  Nummer to
-
--   2.1 to komma en
+1. Nummer en
+2. Nummer to
+  * 2.1 to komma en
 
 ## **Conclusion**
 
 ## **References**
+
